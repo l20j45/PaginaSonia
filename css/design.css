@@ -38,6 +38,7 @@
         border-right: 3px solid #afaeae;
         z-index: 999;
         padding-bottom: 50px;
+        display: none;
     }
     
     header nav #card_menu #logo_menu {
@@ -93,6 +94,7 @@
     header #next_section img {
         transform: rotate(180deg);
     }
+    /* aqui inicia lo responsibe */
     
     @media screen and (min-width: 480px) {
         body {
